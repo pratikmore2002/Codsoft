@@ -1,1 +1,1 @@
-1st commmit
+Creating  a number guessing game where the user has to guess a randomly generated number within a specified range. The program prompts the user for guesses, provides feedback on whether the guess is correct, too high, or too low, and repeats until the correct number is guessed. Additional features included limiting the number of attempts, allowing multiple rounds, and displaying the user's score based on attempts or rounds won. 
